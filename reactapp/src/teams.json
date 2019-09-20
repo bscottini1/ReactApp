@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "team": "braves",
+        "logo": "http://content.sportslogos.net/logos/54/51/thumbs/5171502018.gif"
+    },
+    {
+        "id": 2,
+        "team": "Nationals",
+        "logo": "http://content.sportslogos.net/logos/54/578/thumbs/rcehah9k0kekjkgzm077fflws.gif"
+    },
+    {
+        "id": 3,
+        "team": "Phillies",
+        "logo": "http://content.sportslogos.net/logos/54/70/thumbs/7075792019.gif"
+    },
+    {
+        "id": 4,
+        "team": "Mets",
+        "logo": "http://content.sportslogos.net/logos/54/67/thumbs/m01gfgeorgvbfw15fy04alujm.gif"
+    },
+    {
+        "id": 5,
+        "team": "Marlins",
+        "logo": "http://content.sportslogos.net/logos/54/3637/thumbs/363775442019.gif"
+    },
+    {
+        "id": 6,
+        "team": "Cardinals",
+        "logo": "http://content.sportslogos.net/logos/54/72/thumbs/3zhma0aeq17tktge1huh7yok5.gif"
+    },
+    {
+        "id": 7,
+        "team": "Cubs",
+        "logo": "http://content.sportslogos.net/logos/54/54/thumbs/q9gvs07u72gc9xr3395u6jh68.gif"
+    },
+    {
+        "id": 8,
+        "team": "Brewers",
+        "logo": "http://content.sportslogos.net/logos/54/64/thumbs/6479972018.gif"
+    },
+    {
+        "id": 9,
+        "team": "Reds",
+        "logo": "http://content.sportslogos.net/logos/54/56/thumbs/z9e0rqit393ojiizsemd0t1hx.gif"
+    },
+    {
+        "id": 10,
+        "team": "Pirates",
+        "logo": "http://content.sportslogos.net/logos/54/71/thumbs/7112502014.gif"
+    },
+    {
+        "id": 11,
+        "team": "Dodgers",
+        "logo": "http://content.sportslogos.net/logos/54/63/thumbs/efvfv5b5g1zgpsf56gb04lthx.gif"
+    },
+    {
+        "id": 12,
+        "team": "Diamondbacks",
+        "logo": "http://content.sportslogos.net/logos/54/50/thumbs/gnnnrbxcmjhdgeu6mavqk3945.gif"
+    },
+    {
+        "id": 13,
+        "team": "Giants",
+        "logo": "http://content.sportslogos.net/logos/54/74/thumbs/cpqj6up5bvgpoedg5fwsk20ve.gif"
+    },
+    {
+        "id": 14,
+        "team": "Padres",
+        "logo": "http://content.sportslogos.net/logos/54/73/thumbs/7343442015.gif"
+    },
+    {
+        "id": 15,
+        "team": "Rockies",
+        "logo": "http://content.sportslogos.net/logos/54/58/thumbs/5868712017.gif"
+    }
+]
